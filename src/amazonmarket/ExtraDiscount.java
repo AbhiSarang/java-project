@@ -1,4 +1,4 @@
-package amazonmarket;
+package amazonMarket;
 
 import java.util.Scanner;
 
