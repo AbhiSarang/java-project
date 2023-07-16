@@ -1,4 +1,4 @@
-package calculatorcode;
+package calculatorCode;
 
 import java.util.Scanner;
 
